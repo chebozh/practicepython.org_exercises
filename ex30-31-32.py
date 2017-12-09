@@ -25,7 +25,8 @@ def pick_random_word(wordlist):
 
 
 """
-Exercises 31 and 32 In this exercise, we will finish building Hangman. In the game of Hangman, the player only has 
+Exercises 31 and 32
+In this exercise, we will finish building Hangman. In the game of Hangman, the player only has 
 6 incorrect guesses (head, body, 2 legs, and 2 arms) before they lose the game.
  Only let the user guess 6 times, and tell the user how many guesses they have left. 
  Keep track of the letters the user guessed. If the user guesses a letter they already guessed, 
