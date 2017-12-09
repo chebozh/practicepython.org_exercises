@@ -50,4 +50,7 @@ winner_is_2 = [[2, 2, 0],
 winner_is_1_v2 = [[0, 1, 0],
                   [2, 1, 0],
                   [2, 1, 1]]
+
+print(check_game(winner_is_1))
+print(check_game(winner_is_2))
 print(check_game(winner_is_1_v2))
